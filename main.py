@@ -6,6 +6,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QColorDialog, QFileDialog
 import sys
 
 
+print("Hello World")
 class MyWidget(QMainWindow):
     def __init__(self):
         super().__init__()
